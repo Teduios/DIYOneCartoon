@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  CCCartoonMakerViewController.h
 //  CrazyCartoon
 //
 //  Created by Tarena on 16/4/18.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface CCCartoonMakerViewController : UIViewController
 
 @end
-
